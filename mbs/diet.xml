@@ -1,0 +1,53 @@
+<?xml-stylesheet type="text/xsl" href="diet.xsl"?>
+<diet>
+  <day>
+  <dy>Monday</dy>
+    <br>Cinnamon apple aand raisin porridge</br>
+    <ln>Toasted soda bread with blue cheese and pear</ln>
+    <dn>Wild Salmon Coconut Chutney and rice</dn>
+    
+  </day>
+  <day>
+  <dy>Tuesday</dy>
+    <br>Cinnamon apple aand raisin porridge</br>
+    <ln>Beetroot houmus toasts with olives and mint</ln>
+    <dn>Roast chicken with lemon and rosemary roots</dn>
+ 
+  </day>
+  <day>
+  <dy>Wednesday</dy>
+    <br>Sunny side up with toasts</br>
+    <ln>Creamy leak and bean soup</ln>
+    <dn>Stuffed mushroom and mustard slaw</dn>
+    
+  </day>
+   <day>
+  <dy>Thursday</dy>
+    <br>Sunny side up with toasts</br>
+    <ln>Masala omlette,muffins and mustard slaw</ln>
+    <dn>Meatball tangine with chickpeas</dn>
+    
+  </day>
+   <day>
+  <dy>Friday</dy>
+    <br>Rasberry coconut porridge</br>
+    <ln>Mexican bean soup with shredded chicken</ln>
+    <dn>Herb and garlic baked cod with spinach</dn>
+    
+  </day>
+   <day>
+  <dy>Saturday</dy>
+    <br>Rasberry coconut porridge</br>
+    <ln>Masala omlette,muffins and mustard slaw</ln>
+    <dn>Meatball tangine with chickpeas</dn>
+    
+  </day>
+   <day>
+  <dy>Sunday</dy>
+    <br>Poached eggs with tomatoes</br>
+    <ln>Creamy leak and bean soup</ln>
+    <dn>Roast chicken with lemon and rosemary roots</dn>
+    
+  </day>
+  </diet>
+  
